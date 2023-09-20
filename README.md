@@ -1,2 +1,2 @@
 # Test-Project-Repo
-This is a playground repo
+This is a playground repository
